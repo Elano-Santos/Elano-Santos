@@ -5,6 +5,9 @@
 🎯 Atualmente focado em Front-end  
 📚 Estudando HTML, CSS, JavaScript e Angular  
 🚀 Buscando minha primeira oportunidade como desenvolvedor
+#
+
+## Meu portfólio: https://portifolio-sooty-mu-35.vercel.app/
 
 ## 🛠 Tecnologias que estou aprendendo
 - HTML
