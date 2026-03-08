@@ -7,9 +7,11 @@
 🚀 Buscando minha primeira oportunidade como desenvolvedor
 #
 
+## Meu currículo ➡️ [Clique aqui para visualizar meu currículo](curriculo_Elano_Santos.pdf)
+
 ## Meu portfólio: https://portifolio-sooty-mu-35.vercel.app/
 
-## 🛠 Tecnologias que estou aprendendo
+# 🛠 Tecnologias que estou aprendendo
 - HTML
 - CSS
 - JavaScript
